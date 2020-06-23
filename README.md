@@ -1,0 +1,14 @@
+Functions that I have written
+- Pearson correlation coeficient
+- Computing ECDF
+- Plotting ECDF
+- Bootstrap replicate Function
+- Bootstrap replicate Function to retruen many Bootstrap replicates from a data set
+- standard deviation of the mean
+- pairs Bootstrap
+- Plot pairs Bootstrap
+- Permutating 2 1-D arrays
+- Draw multiple permutations
+- Compute the difference in the means of two arrays
+- Compute p-value: pairs
+- A/B Testing
